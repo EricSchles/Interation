@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\bin\Debug\Interation.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\bin\Debug\Interation.exe
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\bin\Debug\Interation.pdb
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\obj\Debug\Interation.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\obj\Debug\Interation.exe
+c:\users\eric\documents\visual studio 2012\Projects\Interation\Interation\obj\Debug\Interation.pdb
